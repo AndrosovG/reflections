@@ -1,3 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 File .git created. To control versions.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Staging area points files in working directory which are included in repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help
+
+Branches are helpful when developer need to try create different variants of project.
+
+
